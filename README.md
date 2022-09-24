@@ -14,6 +14,7 @@
   <p align="center">
     An awesome Applied Machine Learning project!
     <br />
+   <br />
     <a href="https://chalmers.instructure.com/courses/18367/assignments/syllabus"><strong>Explore course homepage »</strong></a>
     <br />
     <br />
